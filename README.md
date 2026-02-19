@@ -73,11 +73,3 @@
 <br/>
 
 ---
-
-### GitHub Pulse
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nramanath&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" width="55%"/>
-</div>
-
----
